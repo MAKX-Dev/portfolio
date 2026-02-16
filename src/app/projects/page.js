@@ -11,7 +11,7 @@ export default function Projects() {
       title: "Portfolio Website",
       description: "Personal portfolio built with Next.js and deployed on Vercel",
       tech: ["Next.js", "Tailwind CSS", "Vercel"],
-      link: "#",
+      link: "https://makx-portfolio.vercel.app/",
       github: "https://github.com/MAKX-Dev/portfolio"
     }
   ]
